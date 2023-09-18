@@ -1,2 +1,2 @@
 # Repoprueba
-Este repo sirve para practicar
+Este repo sirve para practicar.
